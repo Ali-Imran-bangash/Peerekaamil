@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#07000000</color>
+
+
+
+    <color name="colorProgressIndicatorBackground">#BBBBBB</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="cloorBrown">#d9a950</color>
+
+
+
+
+    <color name="primaryColor">#bf360c</color>
+    <color name="primaryLightColor">#f9683a</color>
+    <color name="primaryDarkColor">#870000</color>
+    <color name="primaryTextColor">#ffffff</color>
+
+
+
+    <color name="colorGrey">#757575</color>
+    <color name="colorLightGrey">#a4a4a4</color>
+    <color name="colorDarkGrey">#212121</color>
+    <color name="colorGreyTextColor">#ffffff</color>
+    <color name="colorLightBlue">#87cefa</color>
+    <color name="colorDarkBlue">#87cefa</color>
+    <color name="colorExtraLightBlue">#BBDEFB</color>
+
+</resources>

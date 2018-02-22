@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_welcome_screen"
+    android:layout_width="match_parent"
+    android:background="@drawable/welcome_image"
+    android:layout_height="match_parent"
+    tools:context="com.example.wasifyounas.peerekaamil.welcome_screen">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnRead"
+                android:text="Read"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="50sp"
+                android:layout_marginRight="50sp"
+
+                android:background="@drawable/general_button_shop"
+                android:textSize="12sp"
+                android:layout_width="match_parent"
+                android:layout_height="30sp"
+                android:shadowColor="#A8A8A8"
+                />
+
+            <Button
+                android:id="@+id/btnResume"
+                android:text="Resume Reading"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="70sp"
+                android:layout_marginRight="70sp"
+                android:background="@drawable/general_button_shop"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:textSize="12sp"
+                android:layout_width="match_parent"
+                android:layout_height="30sp"
+                android:shadowColor="#A8A8A8"
+                />
+
+            <Button
+                android:id="@+id/btnGetMoreBooks"
+                android:text="Get More Amzing Books"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="70sp"
+                android:layout_marginRight="70sp"
+                android:background="@drawable/general_button_shop"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:textSize="12sp"
+                android:layout_width="match_parent"
+                android:layout_height="30sp"
+                android:shadowColor="#A8A8A8"
+                />
+
+        </LinearLayout>
+
+
+</RelativeLayout>
